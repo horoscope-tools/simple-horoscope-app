@@ -1,0 +1,1 @@
+# simple-horoscope-app
